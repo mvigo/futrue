@@ -4,7 +4,6 @@ layout: content
 
 # Clyell
 
-[https://gjuniioor.github.io/clyell](https://gjuniioor.github.io/clyell)
 
 ### About
 
