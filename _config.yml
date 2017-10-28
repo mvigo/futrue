@@ -2,19 +2,19 @@
 title: "gjuniioor"
 bye_message: "Thx!"
 baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
+url: "https://mvigo.github.io/futrue/"
 disqus: gjuniioor
 
 # Header settings
 nick: "projectfutrue"
 mail:
-    domain: "manuelvigo.com"
+    domain: "https://mvigo.github.io/futrue/"
     ext: "ch"
 source_code:
-    server: "github.com"
+    server: "https://mvigo.github.io/futrue/"
     nick: "gjuniioor"
 blog:
-    server: "github.com"
+    server: "https://mvigo.github.io/futrue/"
     nick: "gjuniioor"
 fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
